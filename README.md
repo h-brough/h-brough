@@ -16,6 +16,6 @@ I’m a PhD student at the University of Manchester with a background in theoret
 ---
 
 ## 📈 Stats & Activity
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=default)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=h-brough&show_icons=true&theme=default)
 
 ---
