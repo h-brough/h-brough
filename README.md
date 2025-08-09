@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**h-brough/h-brough** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a PhD student at the University of Manchester with a background in theoretical chemistry. Currently exploring programming with Python and using linear scaling algorithms for improved enzyme mechanism modelling.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Projects & Development
+- **TUNA (Python)** – A simple quantum chemistry program for diatomics
+
+---
+
+## 🌐 Links
+- **LinkedIn:** [/in/harry-brough/](https://www.linkedin.com/in/harry-brough/)
+- **Google Scholar:** [Harry Brough](https://scholar.google.com/citations?user=d3iC9r8AAAAJ&hl=en)
+
+---
+
+## 📈 Stats & Activity
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=default)
+
+---
