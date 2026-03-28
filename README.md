@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I’m a PhD student at the University of Manchester with a background in theoretical chemistry. Currently exploring programming with Python and using linear scaling algorithms for improved enzyme mechanism modelling.
+I’m a PhD student at the University of Manchester with a background in theoretical chemistry. Currently exploring programming with Python and developing linear scaling correlated wavefunction methods for improved enzyme mechanism modelling.
 
 ---
 
