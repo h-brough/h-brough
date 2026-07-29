@@ -5,7 +5,7 @@ I’m a PhD student at the University of Manchester with a background in theoret
 ---
 
 ## 💻 Projects & Development
-- **TUNA (Python)** – A simple quantum chemistry program for diatomics
+- **TUNA** – A simple quantum chemistry program for diatomics, written in Python
 - **TUNA in C** - Porting TUNA into the minimal and efficient C language
 
 ---
