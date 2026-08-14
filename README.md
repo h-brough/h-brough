@@ -1,10 +1,11 @@
 # Hi there! 👋
 
-I’m a PhD student at the University of Manchester with a background in theoretical chemistry. Currently exploring programming with Python and developing linear scaling correlated wavefunction methods for improved enzyme mechanism modelling.
+I’m a PhD student at the University of Manchester with a background in theoretical chemistry. Currently exploring programming with C, Fortran and Python and developing reduced scaling correlated wavefunction methods for improved biomolecular modelling.
 
 ---
 
 ## 💻 Projects & Development
+- **ONETEP** – Implementing double-hybrid exchange–correlation functionals into the linear scaling DFT code 
 - **TUNA** – A simple quantum chemistry program for diatomics, written in Python
 - **C-TUNA** – Porting TUNA into the minimal and efficient C language
 
