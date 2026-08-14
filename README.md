@@ -6,8 +6,8 @@ I’m a PhD student at the University of Manchester with a background in theoret
 
 ## 💻 Projects & Development
 - **ONETEP** – Implementing double-hybrid exchange–correlation functionals into the linear scaling DFT code 
-- **TUNA** – A simple quantum chemistry program for diatomics, written in Python
-- **C-TUNA** – Porting TUNA into the minimal and efficient C language
+- **TUNA** – A streamlined quantum chemistry program for atoms and diatomics, written in Python
+- **C-TUNA** – Porting TUNA into the minimal and efficient C language for high performance computing clusters, exploiting full diatomic symmetry
 
 ---
 
